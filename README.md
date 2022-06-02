@@ -1,7 +1,7 @@
 # Discreet Documentation
 The public documentation found on https://developers.discreet.net/. This repository is for improvement proposals/issues.
 
-If you have an issue with any of the endpoints, open an issue in this repository and we will investigate and ammend the documentation if possible.
+If you have an issue with any of the endpoints, open an issue in this repository and we will investigate and amend the documentation if possible.
 
 # Using the Discreet Docs for your own project
 
